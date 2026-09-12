@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DM_DYVR_04</string>
+    <string name="ingrese_numero">Ingrese un numero</string>
+    <string name="valor_cero">0</string>
+    <string name="operacion_suma">+</string>
+    <string name="operacion_resta">-</string>
+    <string name="operacion_multiplicacion">*</string>
+    <string name="operacion_division">/</string>
+    <string name="mensaje_error">error</string>
+</resources>
